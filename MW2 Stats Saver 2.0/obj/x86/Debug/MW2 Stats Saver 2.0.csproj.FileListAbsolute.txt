@@ -1,0 +1,11 @@
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\bin\Debug\MW2 Stats Saver 2.0.exe.config
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\bin\Debug\MW2 Stats Saver 2.0.exe
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\bin\Debug\MW2 Stats Saver 2.0.pdb
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\MW2_Stats_Saver_2._0.Main.resources
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\MW2_Stats_Saver_2._0.Properties.Resources.resources
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\MW2_Stats_Saver_2._0.Settings.resources
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\MW2 Stats Saver 2.0.exe
+D:\Users\Christian\Documents\Visual Studio 2010\Projects\MW2 Stats Saver 2.0\MW2 Stats Saver 2.0\obj\x86\Debug\MW2 Stats Saver 2.0.pdb
