@@ -153,7 +153,6 @@ namespace MW2_Stats_Saver_2._0
         {
             if (CheckForCOD())
             {
-                LogAppend("CoD is running.");
             }
         }
     }
